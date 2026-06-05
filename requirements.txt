@@ -4,3 +4,4 @@ Pillow>=10.0
 matplotlib>=3.8
 jupyter>=1.0
 ipykernel>=6.29
+pandas==3.0.3
